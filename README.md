@@ -55,7 +55,7 @@ Conocer a profundidad el uso de la ley de ohm, y de la potencia, medainte el uso
 ![imagen](https://user-images.githubusercontent.com/116812651/202348361-b8887259-d9c9-4927-9629-dbf11380d24c.png)
 ![imagen](https://user-images.githubusercontent.com/116812651/202348389-ce320ea5-0cf3-41f0-83da-f0ddda144eda.png)
 # 4.Video
-
+https://youtu.be/3MEbyaCcFJg
 # 5. Conclusiones
 - Finiquitando con el tema visto, se pudo denotar que los circuitos se puenden analizar para descubirir fallos e implementar las fórmulas vistas con anterioridad para poder resolverlos. 
 - En conclusión la potencia es una variación dentro de la electrónica muy importante, ya que se usa para medir el nivel de watts dentro de un circuito y se usa en demacia dentro del campo de la electricidad y electrónica.
